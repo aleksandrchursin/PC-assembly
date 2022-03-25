@@ -1,1 +1,1 @@
-# aleksandrchurs
+# aleksandrchurs - учебный project
